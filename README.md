@@ -14,7 +14,7 @@ Flight Number, Origin and Destination airport Id and cities Id, CRS departure an
 Air time, and Distance.
 
 ### The Code
-The code is organized as follow: an exploration of the data, a k-fold cross-validation error to determine the best hyper-parameters
+The code is organized as follow: an exploration of the data, a grid search cross-validation error to determine the best hyper-parameters
 of my model, and the predictions. All in Jupyter Python Notebook.
 
 #### Part 1. Exploration of the data
