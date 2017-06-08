@@ -27,4 +27,4 @@ Built a Random Forest Classifier after having tuned it with a grid search cross-
 
 #### Part 3. Predictions and model performances
 
-Evaluated the model performances on different months, on different years.
+Evaluated the model performances on different months, on different years. (February, and October 2016, January 2017)
