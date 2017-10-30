@@ -1,4 +1,4 @@
-# My StartUp.ML Challenge
+# My Fellowship.AI Challenge
 ## Airline On-Time Arrivals - Binary classification model
 ## Pierre Megret
 
